@@ -17,10 +17,12 @@ due date 30 Nov 2023
 
 ## Files uploaded
 1. Main script is called VBA_Challenge.vbs
-2. Bonus script is called VBA Chgallenge Bonus script.vbs
+2. Bonus script is called VBA Chgallenge Bonus script.vbs (sorry for typo in name)
+3. Screenshot of year 2018 results
+4. Screenshot of year 2018 bonus result
 
 
-#REFERENCES
+##REFERENCES
 1. learn.microsoft.com -
    using If...Then...Else statements     
    overflow (error 6) - used to define longlong for extremely large numbers.
