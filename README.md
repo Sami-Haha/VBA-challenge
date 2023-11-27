@@ -15,7 +15,9 @@ due date 30 Nov 2023
 4. Add functionality to return the stock with the Greatest % increase, Greatest % decrease and Greatest total volume.
 5. Make adjustments to run on every worksheet at once.
 
-##
+## Files uploaded
+1. Main script is called VBA_Challenge.vbs
+2. Bonus script is called VBA Chgallenge Bonus script.vbs
 
 
 #REFERENCES
